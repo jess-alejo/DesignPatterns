@@ -43,7 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="InterfaceSegregation\Classes.cs" />
+    <Compile Include="InterfaceSegregation\Demo.cs" />
+    <Compile Include="InterfaceSegregation\Interfaces.cs" />
     <Compile Include="LiskovSubstitution\Demo.cs" />
+    <Compile Include="LiskovSubstitution\Shapes.cs" />
     <Compile Include="OpenClosed\IFilter.cs" />
     <Compile Include="OpenClosed\ISpecification.cs" />
     <Compile Include="OpenClosed\Product.cs" />

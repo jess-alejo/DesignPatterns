@@ -6,7 +6,8 @@ namespace DesignPatterns.SolidDesignPrinciples
         {
             // SingleResponsibility.Demo.Run();
             // OpenClosed.Demo.Run();
-            LiskovSubstitution.Demo.Run();
+            // LiskovSubstitution.Demo.Run();
+            InterfaceSegregation.Demo.Run();
         }
     }
 }

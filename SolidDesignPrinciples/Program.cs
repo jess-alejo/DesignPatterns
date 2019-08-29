@@ -4,6 +4,7 @@
     {
         static void Main()
         {
+            SingleResponsibility.Demo.Run();
         }
     }
 }

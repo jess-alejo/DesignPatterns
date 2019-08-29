@@ -5,7 +5,8 @@ namespace DesignPatterns.SolidDesignPrinciples
         static void Main()
         {
             // SingleResponsibility.Demo.Run();
-            OpenClosed.Demo.Run();
+            // OpenClosed.Demo.Run();
+            LiskovSubstitution.Demo.Run();
         }
     }
 }
